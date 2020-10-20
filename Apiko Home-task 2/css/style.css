@@ -1,0 +1,19 @@
+form {
+    width: 400px;
+    padding: 15px 30px;
+}
+
+#text {
+    display: block;
+    color: #000;
+    font-weight: 300;
+    padding: 5px;
+}
+
+
+#text2 {
+    display: block;
+    color: #000;
+    font-weight: 300;
+    padding: 5px;
+}
